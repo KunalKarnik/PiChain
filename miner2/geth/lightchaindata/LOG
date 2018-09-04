@@ -1,0 +1,6 @@
+=============== Aug 3, 2018 (IST) ===============
+19:06:26.774618 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:06:26.775205 db@open opening
+19:06:26.775786 version@stat F·[] S·0B[] Sc·[]
+19:06:26.776173 db@janitor F·2 G·0
+19:06:26.776196 db@open done T·976.347µs
